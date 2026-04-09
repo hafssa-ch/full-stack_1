@@ -55,3 +55,12 @@ mon-premier-projet-nodejs/
 └── package-lock.json # Verrouillage des versions
 
 ## Resultat
+<img src="bonjour.png" width="400"/>
+
+<img src="contenu_fichier.png" width="400"/>
+
+<img src="api.png" width="400"/>
+
+<img src="api_express.png" width="400"/>
+
+<img src="gestion_etudiants.png" width="400"/>
